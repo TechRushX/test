@@ -22,7 +22,7 @@ We are expected to lead the conference, so naturally, to finance it too.
 unavailable-subtitle: We do not have enough resources.
 subtitle: -1 resource.
 choose-if: resources >= 1
-on-arrival: frankfurt_negotiations += 1, left_dissent += 5, left_strength += 5
+on-arrival: frankfurt_negotiations += 1; left_dissent += 5; left_strength += 5
 
 We will meet with our Weimar partners! Discussions will more than lkely wrap around the beginning of next year. The left have grown in strength, succesfuly presenting these negotiations as mere ploys meant to delay the inevitable revolution of the proletariat.
 
