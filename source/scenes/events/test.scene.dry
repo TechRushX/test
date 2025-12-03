@@ -1,6 +1,6 @@
 title: The Frankfurt Negotiations
 subtitle: We have concluded an agreement...
-view-if: year = 1929 and month = 1 and z_relation >= 5
+view-if: year = 1929 and month = 1 and z_relation >= 5 and frankfurt_negotiations >= 1
 max-visits: 1
 tags: event
 new-page: true
