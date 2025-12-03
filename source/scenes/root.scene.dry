@@ -41,7 +41,7 @@ Q.use_decimals = 0;
 
 
 
-Q.frankfurt_negotiations = 0
+
 
 
 
@@ -83,6 +83,11 @@ Q.unions_independent = 0;
 Q.centrists_resign = 0;
 Q.left_split = 0;
 Q.reformists_resigned = 0;
+
+
+Q.frankfurt_negotiations = 0
+
+
 
 // have we discovered neorevisionism?
 Q.neorevisionism = 0;
