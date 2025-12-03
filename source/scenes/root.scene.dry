@@ -35,6 +35,25 @@ Q.old_demographics = 0;
 // TODO: not yet implemented
 Q.use_decimals = 0;
 
+
+
+
+
+
+
+Q.frankfurt_negotiations = 0
+
+
+
+
+
+
+
+
+
+
+
+
 // party resources
 Q.resources = 2;
 // party dues
