@@ -2,7 +2,7 @@ title: Frens Ricter
 is-pinned-card: true
 tags: advisor, reformist
 card-image: img/portraits/DeepStateTarget-1.PNG.jpg‎
-view-if: frens_ricter = 1
+view-if: ricter_advisor = 1
 new-page: true 
 
 = Frens Ricter
