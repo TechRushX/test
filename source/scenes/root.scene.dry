@@ -583,6 +583,13 @@ Q.braun_advisor = 0; // Otto Braun
 Q.juchacz_advisor = 0; // Marie Juchacz
 Q.baade_advisor = 0; // Fritz Baade
 
+
+
+Q.frens_ricter = 0; // Frens Ricter
+
+
+
+
 // Labor advisors
 Q.leipart_advisor = 0; // Theodor Leipart
 Q.aufhauser_advisor = 0; // Siegfried Aufhäuser
