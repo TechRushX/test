@@ -582,10 +582,7 @@ Q.severing_advisor = 0; // Carl Severing
 Q.braun_advisor = 0; // Otto Braun
 Q.juchacz_advisor = 0; // Marie Juchacz
 Q.baade_advisor = 0; // Fritz Baade
-
-
-
-Q.frens_ricter = 0; // Frens Ricter
+Q.ricter_advisor = 0; // Frens Ricter
 
 
 
